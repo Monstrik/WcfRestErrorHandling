@@ -1,0 +1,6 @@
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\bin\WcfFormatAutoSelect.dll.config
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\bin\WcfFormatAutoSelect.dll
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\bin\WcfFormatAutoSelect.pdb
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\obj\Debug\WcfFormatAutoSelect.csprojResolveAssemblyReference.cache
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\obj\Debug\WcfFormatAutoSelect.dll
+C:\Dev\WcfFormatAutoSelect\WcfFormatAutoSelect\obj\Debug\WcfFormatAutoSelect.pdb
