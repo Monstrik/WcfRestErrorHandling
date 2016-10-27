@@ -1,0 +1,45 @@
+{
+	"variables": [],
+	"info": {
+		"name": "wcfRest",
+		"_postman_id": "13b37f2a-8fc7-6b11-d06b-658a289b9184",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "JSON",
+			"request": {
+				"url": "http://localhost:53773/Service1.svc/GetData",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "xml",
+			"request": {
+				"url": "http://localhost:53773/Service1.svc/GetData",
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
